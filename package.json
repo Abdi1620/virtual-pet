@@ -1,0 +1,21 @@
+{
+    "name": "virtual-pet",
+    "version": "1.0.0",
+    "description": "A javascript pet",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Abdi1620/virtual-pet.git"
+    },
+    "keywords": [
+      "pet"
+    ],
+    "author": "Abdirizak",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.3.1"
+    }
+  }
